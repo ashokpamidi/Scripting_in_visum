@@ -1,0 +1,1 @@
+This repository contains tutorials on scripting in Visum and other related files.

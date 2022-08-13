@@ -1,0 +1,126 @@
+﻿08/13/22 14.39.52.452 Open file
+08/13/22 14.39.52.452 Open "C:/Users/pamidiashoka/Desktop/visum\Scenario_Management\Scenarios\S000002\Protocol.txt"
+08/13/22 14.39.52.452 Open "C:/Users/pamidiashoka/Desktop/visum\Scenario_Management\Scenarios\S000002\Messages.txt"
+08/13/22 14.39.52.453 Starting to process calculation request for scenario 2
+08/13/22 14.39.52.577 Delete network
+08/13/22 14.39.52.623 Start time of Read version Scenario_Management_visum_exampleBase
+08/13/22 14.39.52.638        5 Transport systems
+08/13/22 14.39.52.642        4 Modes
+08/13/22 14.39.52.645        4 Demand segments
+08/13/22 14.39.52.648        1 Valid days
+08/13/22 14.39.52.650        5 Block item types
+08/13/22 14.39.52.653        2 Directions
+08/13/22 14.39.52.656        4 Nodes
+08/13/22 14.39.52.659       58 Zones
+08/13/22 14.39.52.661        1 Link types
+08/13/22 14.39.52.663        6 Links
+08/13/22 14.39.52.669       10 Turns
+08/13/22 14.39.52.671      116 Connectors
+08/13/22 14.39.52.673        1 Block versions
+08/13/22 14.39.52.695        1 Time series
+08/13/22 14.39.52.698        3 Matrices
+08/13/22 14.39.52.700        3 Matrix data
+08/13/22 14.39.52.703        1 Demand time series
+08/13/22 14.39.52.705        4 Demand descriptions
+08/13/22 14.39.52.730        1 PrT assignment quality data
+08/13/22 14.39.52.803 End time of Read version Scenario_Management_visum_exampleBase
+08/13/22 14.39.53.719 Procedure parameters read from file "C:/Users/pamidiashoka/Desktop/visum\Scenario_Management\Scenarios\S000002\Variables.xml".
+08/13/22 14.39.53.810 Procedure - start
+08/13/22 14.39.53.963 Start Procedure step   1: "PrT assignment"
+08/13/22 14.39.53.981 Start of ICA calculation
+08/13/22 14.39.53.982 End of ICA calculation
+08/13/22 14.39.53.995 Finished computing top level separator, its size is 24 nodes.
+08/13/22 14.39.53.997 Unpacking vectors contain 1113 entries for 666 of 666 forward arcs and 449 of 449 backward arcs. Total unpacked arc count is 3
+08/13/22 14.39.53.997 CH contains 240 nodes, 666 forward edges, 449 backward edges
+08/13/22 14.39.53.997 CCH Statistics for tsys new_sys
+Node order: Arc separators.
+Input node count: 240
+Input arc count: 1112
+CCH arc count before filtering: 1972
+CCH arc count after filtering: 1111
+CCH triangle count before filtering: 18841
+CCH triangle count after filtering: 50
+CH backward arc count: 449
+CH backward search space size: 449
+Node order: Node separators.
+Input node count: 240
+Input arc count: 1112
+CCH arc count before filtering: 2486
+CCH arc count after filtering: 1442
+CCH triangle count before filtering: 30582
+CCH triangle count after filtering: 1750
+CH backward arc count: 603
+CH backward search space size: 557
+using arc-based node order
+08/13/22 14.39.53.997 Start of ICA calculation
+08/13/22 14.39.53.999 End of ICA calculation
+08/13/22 14.39.53.999 Unpacking vectors contain 1113 entries for 666 of 666 forward arcs and 449 of 449 backward arcs. Total unpacked arc count is 3
+08/13/22 14.39.53.999 CH contains 240 nodes, 666 forward edges, 449 backward edges
+08/13/22 14.39.54.000 0 of 58 path trees were loaded on unpacked graph instead of contracted graph
+08/13/22 14.39.54.000 Start of ICA calculation
+08/13/22 14.39.54.002 End of ICA calculation
+08/13/22 14.39.54.002 Unpacking vectors contain 1113 entries for 666 of 666 forward arcs and 449 of 449 backward arcs. Total unpacked arc count is 3
+08/13/22 14.39.54.002 CH contains 240 nodes, 666 forward edges, 449 backward edges
+08/13/22 14.39.54.004 Assignment path-based equilibrium End
+08/13/22 14.39.54.004 13 (total)
+08/13/22 14.39.54.005   8 (initialization)
+08/13/22 14.39.54.005     0 (calculate initial network volumes)
+08/13/22 14.39.54.005   5 (assignment loop)
+08/13/22 14.39.54.005     0 (recompute total volumes)
+08/13/22 14.39.54.005     0 (copy volumes to network)
+08/13/22 14.39.54.005     2 (compute ICA)
+08/13/22 14.39.54.005     0 (recompute constant imps)
+08/13/22 14.39.54.005     0 (update impedance)
+08/13/22 14.39.54.005     0 (shortest path search)
+08/13/22 14.39.54.005     2 (convergence quality indicators)
+08/13/22 14.39.54.005       0 (store flows)
+08/13/22 14.39.54.005       0 (veh imp and gap)
+08/13/22 14.39.54.005       0 (vol and imp diffs per tsys)
+08/13/22 14.39.54.005       0 (vol and imp diffs ext stab)
+08/13/22 14.39.54.005       0 (tracing)
+08/13/22 14.39.54.005     0 (equilibration)
+08/13/22 14.39.54.005       0 (dseg imp update)
+08/13/22 14.39.54.005       0 (non-separable imp update)
+08/13/22 14.39.54.005       0 (uncompress path trees)
+08/13/22 14.39.54.005       0 (equilibration)
+08/13/22 14.39.54.005       0 (additional OD equilibration)
+08/13/22 14.39.54.005     0 (remove unused routes)
+08/13/22 14.39.54.005     0 (path tree recompression)
+08/13/22 14.39.54.005     1 (other)
+08/13/22 14.39.54.005   0 (final removal of unused routes)
+08/13/22 14.39.54.005   0 (distribute volumes to demand segments)
+08/13/22 14.39.54.005   0 (final path tree recompression)
+08/13/22 14.39.54.005   0 (calculate final network volumes)
+08/13/22 14.39.54.005 The assignment reached convergence after 1 of a maximum of 100 iterations with GAP of 2.52708594e-16.
+08/13/22 14.39.54.022 End Procedure step   1: "PrT assignment", run time 0.059384s
+08/13/22 14.39.54.061 MatrixPool: FreeMatrices
+08/13/22 14.39.54.061 MatrixPool: In use  : 0
+08/13/22 14.39.54.061 MatrixPool: Free           : 0
+08/13/22 14.39.54.061 MatrixPool: Max. size     : 1
+08/13/22 14.39.54.061 MatrixPool: Created       : 1
+08/13/22 14.39.54.061 MatrixPool: Reused: 0
+08/13/22 14.39.54.089 Procedure - end
+08/13/22 14.39.54.194 Start time of Save version S000002result
+08/13/22 14.39.54.207        5 Transport systems
+08/13/22 14.39.54.209        4 Modes
+08/13/22 14.39.54.211        4 Demand segments
+08/13/22 14.39.54.214        1 Valid days
+08/13/22 14.39.54.217        5 Block item types
+08/13/22 14.39.54.221        2 Directions
+08/13/22 14.39.54.226        5 Nodes
+08/13/22 14.39.54.228       58 Zones
+08/13/22 14.39.54.231        1 Link types
+08/13/22 14.39.54.233        8 Links
+08/13/22 14.39.54.236       14 Turns
+08/13/22 14.39.54.239      116 Connectors
+08/13/22 14.39.54.247        1 Block versions
+08/13/22 14.39.54.259        1 Time series
+08/13/22 14.39.54.264        3 Matrices
+08/13/22 14.39.54.267        3 Matrix data
+08/13/22 14.39.54.270        1 Demand time series
+08/13/22 14.39.54.272        4 Demand descriptions
+08/13/22 14.39.54.296        1 PrT assignment quality data
+08/13/22 14.39.54.324 Save version S000002result End time
+08/13/22 14.39.54.400 Processing calculation request a414fea6-7ccf-4e21-8053-c3c9d67338e8 completed
+08/13/22 14.39.54.410 No further calculation request to process
+08/13/22 14.39.54.461 Close file

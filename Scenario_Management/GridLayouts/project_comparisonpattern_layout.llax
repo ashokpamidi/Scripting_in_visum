@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listLayoutItem no="0">
+	<listLayoutCommonEntries activeNetObjectsFilter="false" baseEntriesBinaryNo="12056" crossSection="false" layoutIdentifier="LIST_LAYOUT_COMPARISONPATTERN" listTitle="" specialEntriesBinaryNo="0" statisticsRowAverage="false" statisticsRowMaximum="false" statisticsRowMinimum="false" statisticsRowSum="false" synchroMode="MARK">
+		<attributeDefinitions/>
+		<columnWidths/>
+		<fontDefinition characterSet="0" clipPrecision="0" escapement="0" faceName="Arial" height="-11" italic="false" orientation="0" outPrecision="0" pitchAndFamily="0" quality="0" strikeOut="false" underline="false" weight="400" width="0"/>
+		<initialColumnSortings/>
+	</listLayoutCommonEntries>
+	<listGraphicParameterLayoutItems netObjectType=""/>
+	<specialListSettings/>
+	<columnFilters/>
+</listLayoutItem>
